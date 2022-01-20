@@ -10,7 +10,7 @@ public class Main {
 
         // Execute app
         AssetManagementTask newAsset = new AssetManagementTask();
-//        newAsset.executeBatch(data);
+        newAsset.executeBatch(data);
 
     }
 
